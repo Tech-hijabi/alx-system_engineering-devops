@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "A and c" | tr 'Ac' 'Ze'
+tr "A" "c" | "Z" "e"
