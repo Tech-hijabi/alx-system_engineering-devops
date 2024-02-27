@@ -1,0 +1,1 @@
+In this project, I learnt the ssh encryption and connection process and now I understand to a large extent what a server is and how I can connect to my server and also grant access to others to do so using the rsa public key.
